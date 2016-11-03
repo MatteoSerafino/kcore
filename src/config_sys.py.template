@@ -1,0 +1,10 @@
+##################################
+##      SYSTEM CONFIG FILE      ##
+##################################
+
+
+# Data directories
+
+DATAROOT = '/mnt/kcore/'
+ARCHIVE_DIR = path.join(DATAROOT, 'archives')
+
